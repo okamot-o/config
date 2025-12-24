@@ -24,6 +24,7 @@ brew "libheif"
 brew "uv"
 brew "gemini-cli"
 brew "opencode"
+brew "neovim"
 
 cask "raycast"
 cask "rectangle"
