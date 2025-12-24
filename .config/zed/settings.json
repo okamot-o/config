@@ -13,30 +13,8 @@
   "buffer_font_size": 15,
   "theme": {
     "mode": "system",
-    "light": "One Light",
+    "light": "Gruvbox Light",
     "dark": "Gruvbox Dark"
   },
-  "relative_line_numbers": true,
-
-  // LSPs
-  "lsp": {
-    "ols": {
-      "initialization_options": {
-        "enable_hover": true,
-        "enable_snippets": true,
-        "enable_procedure_snippet": true,
-        "enable_completion_matching": true,
-        "enable_references": true,
-        "enable_document_symbols": true,
-        "enable_format": true,
-        "enable_document_links": true,
-        "collections": [
-          {
-            "name": "core",
-            "path": "/opt/homebrew/Cellar/odin/2025-10/libexec/core"
-          }
-        ]
-      }
-    }
-  }
+  "relative_line_numbers": "enabled"
 }
